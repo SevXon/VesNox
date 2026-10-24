@@ -1,16 +1,38 @@
-## Hi there 👋
+## WTW ✌🏿 
+# Vesperyn Noctyre | VesNox
 
-<!--
-**VesNox/VesNox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology • Exploration • Innovation
 
-Here are some ideas to get you started:
+Welcome to my technical portfolio. I'm building my knowledge and practical experience through hands-on projects, independent research, and continuous learning across computing and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This space documents my progress, the problems I investigate, the solutions I develop, and the lessons I learn along the way.
+
+## About This Portfolio
+
+My goal is to develop a strong technical foundation while exploring different areas of technology. I use this portfolio to document real-world troubleshooting, experiments, coursework, and personal projects.
+
+I believe understanding *why* something works is just as important as learning *how* to make it work.
+
+## Areas of Interest
+
+- Cybersecurity and ethical hacking
+- Computer networking and infrastructure
+- Cloud computing and virtualization
+- Software development and automation
+- Artificial intelligence and emerging technologies
+- Operating systems and system administration
+- Technical research and problem-solving
+
+## Projects
+
+Projects and technical documentation will be added as they are prepared for publication.
+
+## My Approach
+
+**Learn. Experiment. Document. Improve.**
+
+Each project is an opportunity to strengthen my technical skills, evaluate different approaches, and develop practical solutions.
+
+---
+
+*VesNox | Building knowledge through experience.*
