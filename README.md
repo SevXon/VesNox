@@ -1,5 +1,5 @@
 ## WTW ✌🏿 
-# Vesperyn Noctyre | VesNox
+# Erytcon Nyrepsev | SevXon
 
 ### Technology • Exploration • Innovation
 
